@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Scrum methodoly and AWS
 - 📫 You can reach me on my linkedin profile https://www.linkedin.com/in/miguel-carrizo/
 
-:point_down::point_down: *Checkout the RockScissorHand Game Project made with React, Redux, Nodejs, Express.* :point_down::point_down:
+:point_down::point_down: *Checkout the RockScissorPaper Game Project made with React, Redux, Nodejs, Express.* :point_down::point_down:
 
 <!---
 micarrizo/micarrizo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
