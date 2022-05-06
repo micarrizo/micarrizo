@@ -1,8 +1,8 @@
 👋 Hi, Everyone i’m Miguel, you can call me Mike
 
-- :computer: I'm currently working as a freelancer fullstack developer and creating a webapp this year 2021 that i will tell you later.
+- :computer: I'm currently working as a Backend developer.
 - 👀 I’m interested in web aplications projects and car drifting
-- 🌱 I’m currently learning Scrum methodoly and AWS
+- 🌱 I’m currently learning about TS and Golang
 - 📫 You can reach me on my linkedin profile https://www.linkedin.com/in/miguel-carrizo/
 
 :point_down::point_down: *Checkout the RockScissorPaper Game Project made with React, Redux, Nodejs, Express.* :point_down::point_down:
