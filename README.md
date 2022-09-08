@@ -2,7 +2,7 @@
 
 - :computer: I'm currently working as a Backend developer.
 - 👀 I’m interested in web aplications projects and car drifting
-- 🌱 I’m currently learning about TS and Golang
+- 🌱 I’m currently learning about clouds
 - 📫 You can reach me on my linkedin profile https://www.linkedin.com/in/miguel-carrizo/
 
 :point_down::point_down: *Checkout the RockScissorPaper Game Project made with React, Redux, Nodejs, Express.* :point_down::point_down:
